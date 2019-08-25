@@ -1,1 +1,13 @@
-remote_theme: thelehhman/texture
+remote_theme: thelehhman/plainwhite-jekyll
+theme: plainwhite
+
+plainwhite:
+  name: Irit Goihman
+  tagline: Made to Code
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    twitter: irit_go
+    github:  igoihman
+    linkedIn: in/igoihman
+  sitemap: true
