@@ -1,1 +1,1 @@
-yet another boring README
+yet another README
